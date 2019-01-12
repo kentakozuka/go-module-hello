@@ -1,1 +1,1 @@
-module github.com/kentakozuka/go-module-hello
+module github.com/kentakozuka/go-module-hello/v2
